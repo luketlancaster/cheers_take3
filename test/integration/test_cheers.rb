@@ -1,4 +1,5 @@
 require_relative '../helper'
+require_relative '../../cheers'
 
 class TestCheersIntegration < MiniTest::Test
 
