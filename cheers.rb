@@ -1,0 +1,3 @@
+class Cheers
+
+end
